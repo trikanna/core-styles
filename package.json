@@ -1,7 +1,21 @@
 {
   "name": "@trikanna/core-styles",
-  "version": "0.0.4",
-  "description": "core styles, just that",
+  "version": "0.0.5",
+  "description": "core styles",
+  "keywords": [
+    "trikanna",
+    "css",
+    "scss",
+    "styles",
+    "mac",
+    "macos",
+    "electron",
+    "browser",
+    "native",
+    "look",
+    "clean",
+    "minimal"
+  ],
   "files": [
     "lib"
   ],
@@ -18,6 +32,7 @@
   },
   "author": "Santiago Camelo <trikanna@gmail.com>",
   "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
