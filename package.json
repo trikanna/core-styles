@@ -1,6 +1,6 @@
 {
   "name": "@trikanna/core-styles",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "core styles",
   "keywords": [
     "trikanna",
@@ -30,7 +30,15 @@
     "url": "https://github.com/trikanna/core-styles.git",
     "type": "git"
   },
-  "author": "Santiago Camelo <trikanna@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/trikanna/core-styles/issues",
+    "email": "trikanna@gmail.com"
+  },
+  "author": {
+    "name": "Santiago Camelo",
+    "email": "trikanna@gmail.com",
+    "url": "http://www.trikanna.com/"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
