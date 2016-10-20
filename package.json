@@ -1,13 +1,13 @@
 {
   "name": "@trikanna/core-styles",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "core styles, just that",
   "files": [
     "lib"
   ],
   "scripts": {
     "start": "gulp sass:watch",
-    "publish": "npm publish --access=public"
+    "upload": "npm publish --access public"
   },
   "engines": {
     "node": ">=6"
