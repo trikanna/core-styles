@@ -1,0 +1,12 @@
+{
+  "name": "core-styles",
+  "version": "1.0.0",
+  "description": "core styles, just that",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/trikanna/core-styles",
+    "type": "git"
+  },
+  "author": "Santiago Camelo <trikanna@gmail.com>",
+  "license": "MIT"
+}
