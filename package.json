@@ -1,12 +1,26 @@
 {
-  "name": "core-styles",
+  "name": "@trikanna/core-styles",
   "version": "1.0.0",
   "description": "core styles, just that",
-  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "start": "gulp sass:watch"
+  },
+  "engines": {
+    "node": ">=6"
+  },
   "repository": {
-    "url": "https://github.com/trikanna/core-styles",
+    "url": "https://github.com/trikanna/core-styles.git",
     "type": "git"
   },
   "author": "Santiago Camelo <trikanna@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.1.1",
+    "node-sass": "^2.1.1"
+  }
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"core-styles.css","sources":["core-styles.scss","base/_base.scss"],"sourcesContent":["@import \"base/base\";\n","body {\n  font: arial, helvetica, sans-serif;\n}\n"],"mappings":"ACAA,AAAA,IAAI,AAAC,CACH,IAAI,CAAE,4BAA6B,CACpC","names":[]}
