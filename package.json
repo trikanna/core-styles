@@ -1,6 +1,6 @@
 {
   "name": "@trikanna/core-styles",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "core styles",
   "main": "lib/core-styles.css",
   "homepage": "http://www.trikanna.com/",
